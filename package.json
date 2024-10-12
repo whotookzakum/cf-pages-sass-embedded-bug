@@ -12,11 +12,9 @@
 		"@sveltejs/adapter-cloudflare": "^4.7.3",
 		"@sveltejs/kit": "^2.0.0",
 		"@sveltejs/vite-plugin-svelte": "^3.0.0",
+		"sass-embedded": "^1.79.5",
 		"svelte": "^4.2.7",
 		"vite": "^5.0.3"
 	},
-	"type": "module",
-	"dependencies": {
-		"sass": "^1.79.5"
-	}
+	"type": "module"
 }
